@@ -37,5 +37,5 @@
       - переподключить питание (в текущей версии прошивки в памяти ничего не сохраняется) 
       
 ## [Скетч](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/frimware/Trickler_Tank.ino)
-## [Схема распайки] (https://github.com/fenofun/Powder-Trickler-Tank/blob/main/Scheme/Scheme.png)
+## [Схема распайки](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/Scheme/Scheme.png)
 
