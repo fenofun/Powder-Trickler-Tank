@@ -11,10 +11,10 @@
 Модели сделаны с минимальными зазорами под плачтик типа PETG с минимальной усадкой.
 Будьте готовы вооружиться скальпелем, надфилями и цианокрилатом.
 
-### [Схема распайки](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/Scheme/Scheme.png)
-### [Скетч](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/frimware/Trickler_Tank.ino)
+#### [Схема распайки](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/Scheme/Scheme.png)
+#### [Скетч](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/frimware/Trickler_Tank.ino)
 
-## Важные особенности
+## Некоторые особенности
 
 1. Оптодатчики фиксируют положение намного точнее человеческого глаза, так что повторяемость навески заметно улучшается.
 Но если весы кривые сами по себе то чудес ждать нет смысла. 
