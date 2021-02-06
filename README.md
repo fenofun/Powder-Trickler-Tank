@@ -9,8 +9,10 @@
 К другим весам моделей нет не факт что будут.
 
 Модели сделаны с минимальными зазорами под плачтик типа PETG с минимальной усадкой.
-Будьте готовы вооружиться скальпелем, надфилями и цианокрилатом. 
+Будьте готовы вооружиться скальпелем, надфилями и цианокрилатом.
 
+### [Схема распайки](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/Scheme/Scheme.png)
+### [Скетч](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/frimware/Trickler_Tank.ino)
 
 ## Важные особенности
 
@@ -36,6 +38,5 @@
       - зажать кнопку на 4сек до звукового сигнала
       - переподключить питание (в текущей версии прошивки в памяти ничего не сохраняется) 
       
-## [Скетч](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/frimware/Trickler_Tank.ino)
-## [Схема распайки](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/Scheme/Scheme.png)
+
 
