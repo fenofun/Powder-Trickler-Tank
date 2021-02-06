@@ -11,8 +11,13 @@
 Модели сделаны с минимальными зазорами под плачтик типа PETG с минимальной усадкой.
 Будьте готовы вооружиться скальпелем, надфилями и цианокрилатом.
 
+## Сборка 
+
 #### [Схема распайки](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/Scheme/Scheme.png)
 #### [Скетч](https://github.com/fenofun/Powder-Trickler-Tank/blob/main/frimware/Trickler_Tank.ino)
+
+В скетче используются библиотеки товарища [Гайвера](https://github.com/AlexGyver) так что идем в его [репозиторий библиотек](https://github.com/AlexGyver/GyverLibs) и скачиваем GyverStepper и GyverButton.  
+
 
 ## Некоторые особенности
 
